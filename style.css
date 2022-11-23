@@ -1,0 +1,11 @@
+.circle {
+    fill: brown;
+    stroke-width: 10;
+    stroke: indigo;
+    transition: 1s;
+}
+
+.svg:hover .circle {
+    fill: aqua;
+    stroke: greenyellow;
+}
